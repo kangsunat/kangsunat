@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kangsunat
-- 👀 I’m interested all about web developing
+- 👀 I’m interested all about web development
 - 🌱 I’m currently learning microservice
 
 <!---
